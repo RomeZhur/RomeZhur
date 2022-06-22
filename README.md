@@ -1,4 +1,4 @@
-### Hi there 👋, I am [Rome](https://romezhur.github.io/)! 😁
+### Hi there 👋, I am [Rome](https://romezhur.github.io/) !😁
 
 Hello, my name is Roman Zhur and i love coding
 
