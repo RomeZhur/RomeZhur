@@ -1,4 +1,4 @@
-### Hi there 👋, I am [Rome](www.linkedin.com/in/romanzhur) !😁
+### Hi there 👋, I am [Rome](https://linkedin.com/in/romanzhur) !😁
 
 Hello, my name is Roman Zhur and i love coding
 
