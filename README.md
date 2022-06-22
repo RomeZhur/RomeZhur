@@ -19,7 +19,7 @@ Hello, my name is Roman Zhur and i love coding
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
 
-![Rome's Github Stats](https://github-readme-stats.vercel.app/api?username=RomeZhur&count_private=true&show_icons=true&include_all_commits=true)
+<!-- ![Rome's Github Stats](https://github-readme-stats.vercel.app/api?username=RomeZhur&count_private=true&show_icons=true&include_all_commits=true) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomeZhur&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RomeZhur.RomeZhur)
