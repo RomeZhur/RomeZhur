@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&color=05D9E8&background=01012B00&center=true&vCenter=true&multiline=true&width=900&height=150&lines=Hi%2C+I'm+Roman+Zhur!;I'm+very+glad+to+see+you+on+my+page!)](https://git.io/typing-svg)
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="900"/>
 
-**Languages and Tools:** 
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="left">
 
