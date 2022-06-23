@@ -1,6 +1,4 @@
-### Hi there 👋, I am [Rome](https://linkedin.com/in/romanzhur) !😁
-
-Hello, my name is Roman Zhur and i love coding
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&color=05D9E8&background=01012B00&center=true&vCenter=true&multiline=true&width=900&height=150&lines=Hi%2C+I'm+Roman+Zhur!;I'm+very+glad+to+see+you+on+my+page!)](https://git.io/typing-svg)
 
 **Languages and Tools:** 
 
