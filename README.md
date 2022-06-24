@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Grechen+Fuemen&size=50&color=05D9E8&duration=7000&center=true&vCenter=true&multiline=true&width=900&height=150&lines=HI,+I'm+Roman+Zhur;Welcome+To+My+GitHub+Profile)](https://git.io/typing-svg)
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="900"/>
+<a href="https://pic2.me/wallpaper/286815.html"><img src="https://storge.pic2.me/upload/653/5f8838115bc154.74664298.jpg" alt="город, ночь, cyberpunk"/></a>
+
 
 <h2 align="center">Languages and Tools:</h3>
 
