@@ -2,11 +2,6 @@
 
 <a href="https://pic2.me/wallpaper/286815.html"><img src="https://storge.pic2.me/upload/653/5f8838115bc154.74664298.jpg" alt="город, ночь, cyberpunk"/></a>
 
-<script src="http://api.html5media.info/1.1.8/html5media.min.js"></script>
-
-<audio src="https://music.yandex.by/album/3735240/track/30867391" controls preload></audio>
-
-
 <h2 align="center">Languages and Tools:</h3>
 
 <p align="center">
