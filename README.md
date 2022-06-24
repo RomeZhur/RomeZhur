@@ -21,6 +21,6 @@
 <!-- ![Rome's Github Stats](https://github-readme-stats.vercel.app/api?username=RomeZhur&count_private=true&show_icons=true&include_all_commits=true) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomeZhur&hide=TeX&layout=compact)
 
-<a href="http://www.github.com/RomeZhur"><img src="https://activity-graph.herokuapp.com/graph?username=RomeZhur&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=Rome%20commits%20graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/RomeZhur"><img src="https://activity-graph.herokuapp.com/graph?username=RomeZhur&bg_color=01012b&color=ff2f6d&line=05d9e8&point=ff2a6d&area_color=d1f7ff&area=true&hide_border=true&custom_title=Rome%20commits%20graph" alt="GitHub Commits Graph" /></a>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RomeZhur.RomeZhur)
