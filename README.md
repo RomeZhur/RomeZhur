@@ -17,10 +17,6 @@
       <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="js_webpack" width="55" height="55"/>
 </p>
 
-
-
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomeZhur&hide=TeX&layout=compact)
-
 <a href="http://www.github.com/RomeZhur"><img src="https://activity-graph.herokuapp.com/graph?username=RomeZhur&bg_color=0d1117&color=05d9e8&line=05d9e8&point=ff2a6d&area_color=d1f7ff&area=true&hide_border=true&custom_title=Rome`s%20commits%20graph" alt="GitHub Commits Graph" /></a>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RomeZhur.RomeZhur)
