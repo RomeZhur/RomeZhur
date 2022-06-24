@@ -1,4 +1,4 @@
-"https://user-images.githubusercontent.com/78309054/175661180-0f2bb3ee-6341-47fc-8684-b93da416c9bb.mov"
+https://user-images.githubusercontent.com/78309054/175661180-0f2bb3ee-6341-47fc-8684-b93da416c9bb.mov
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Grechen+Fuemen&size=50&color=05D9E8&duration=7000&center=true&vCenter=true&multiline=true&width=900&height=150&lines=HI,+I'm+Roman+Zhur;Welcome+To+My+GitHub+Profile)](https://git.io/typing-svg)
 
