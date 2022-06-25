@@ -6,6 +6,10 @@ https://user-images.githubusercontent.com/78309054/175764219-87c42d07-049b-440b-
 
 <a href="https://pic2.me/wallpaper/286815.html"><img src="https://storge.pic2.me/upload/653/5f8838115bc154.74664298.jpg" alt="город, ночь, cyberpunk"/></a>
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> b2ac32904af610e155e885a9624c6c259d204fa7
 <h2>Languages and Tools:</h2>
 
 <p align="center">
@@ -50,5 +54,11 @@ https://user-images.githubusercontent.com/78309054/175764219-87c42d07-049b-440b-
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RomeZhur.RomeZhur)
 </div>
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> b2ac32904af610e155e885a9624c6c259d204fa7
 
 
