@@ -2,10 +2,7 @@ https://user-images.githubusercontent.com/78309054/175764219-87c42d07-049b-440b-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Grechen+Fuemen&size=50&color=05D9E8&duration=7000&center=true&vCenter=true&multiline=true&width=900&height=150&lines=HI,+I'm+Roman+Zhur;Welcome+To+My+GitHub+Profile)](https://git.io/typing-svg)
 
-https://camo.githubusercontent.com/6b68754bfe9a1bc4abebfabc34d4701bae4fa96c73172f2788d6a4163b0ce38c/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966
-
 <a href="https://pic2.me/wallpaper/286815.html"><img src="https://storge.pic2.me/upload/653/5f8838115bc154.74664298.jpg" alt="город, ночь, cyberpunk"/></a>
-
 
 <h2 align="center">Languages and Tools:</h3>
 
