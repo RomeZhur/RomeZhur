@@ -27,12 +27,12 @@ https://user-images.githubusercontent.com/78309054/175764219-87c42d07-049b-440b-
 
 # Contact Me :
  
-<img hight="300" width="500" align="right" src="assets/img/awesome.jpg" alt="awesome" >
+<img hight="300" width="500" align="right" src="assets/img/awesome.jpg" alt="awesome">
 
 # If you want to reach out to me about anything, be it some doubt or just to hangout and talk, ping me 😉
 
 <a href="mailto:roman.edyardovich@gmail.com">
- <img hight="100" width="100" src="assets/icons/Gmail.gif" alt="Gmail" />
+ <img hight="100" width="100" src="assets/icons/Gmail.gif" alt="Gmail"/>
 </a>
 
 <a href="https://www.linkedin.com/in/romanzhur/">
@@ -40,7 +40,7 @@ https://user-images.githubusercontent.com/78309054/175764219-87c42d07-049b-440b-
 </a>
 
 <a href="https://www.instagram.com/roman.edyardovich/">
-  <img hight="100" width="100" src="assets/icons/Instagram.gif" alt="Instagram" />
+  <img hight="100" width="100" src="assets/icons/Instagram.gif" alt="Instagram"/>
 </a>
  </p>
 </br>
