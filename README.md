@@ -4,12 +4,9 @@ https://user-images.githubusercontent.com/78309054/175764219-87c42d07-049b-440b-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Grechen+Fuemen&size=50&color=05D9E8&duration=7000&center=true&vCenter=true&multiline=true&width=900&height=150&lines=HI,+I'm+Roman+Zhur;Welcome+To+My+GitHub+Profile)](https://git.io/typing-svg)
 
-<a href="https://pic2.me/wallpaper/286815.html"><img src="https://storge.pic2.me/upload/653/5f8838115bc154.74664298.jpg" alt="город, ночь, cyberpunk"/></a>
+<a href="https://pic2.me/wallpaper/286815.html"><img src="https://storge.pic2.me/upload/653/5f8838115bc154.74664298.jpg" alt="cyberpunk"/></a>
 
-<<<<<<< HEAD
-=======
 
->>>>>>> b2ac32904af610e155e885a9624c6c259d204fa7
 <h2>Languages and Tools:</h2>
 
 <p align="center">
@@ -28,8 +25,6 @@ https://user-images.githubusercontent.com/78309054/175764219-87c42d07-049b-440b-
 
 <a href="http://www.github.com/RomeZhur"><img src="https://activity-graph.herokuapp.com/graph?username=RomeZhur&bg_color=0d1117&color=05d9e8&line=05d9e8&point=ff2a6d&area_color=d1f7ff&area=true&hide_border=true&custom_title=Rome`s%20commits%20graph" alt="GitHub Commits Graph" /></a>
 
-***
-
 # Contact Me :
  
 <img hight="300" width="500" align="right" src="assets/img/awesome.jpg" alt="awesome" >
@@ -37,15 +32,15 @@ https://user-images.githubusercontent.com/78309054/175764219-87c42d07-049b-440b-
 # If you want to reach out to me about anything, be it some doubt or just to hangout and talk, ping me 😉
 
 <a href="mailto:roman.edyardovich@gmail.com">
- <img hight="100" width="130" src="./assets/icons/gmail-icon.svg" alt="Gmail" />
+ <img hight="80" width="100" src="./assets/icons/gmail-icon.svg" alt="Gmail" />
 </a>
 
 <a href="https://www.linkedin.com/in/romanzhur/">
-  <img hight="100" width="130" src="./assets/icons/linkedin-icon.svg" alt="Linkedin"/>
+  <img hight="80" width="100" src="./assets/icons/linkedin-icon.svg" alt="Linkedin"/>
 </a>
 
 <a href="https://www.instagram.com/roman.edyardovich/">
-  <img hight="100" width="130" src="./assets/icons/instagram-icon.svg" alt="Instagram" />
+  <img hight="80" width="100" src="./assets/icons/instagram-icon.svg" alt="Instagram" />
 </a>
  </p>
 </br>
@@ -54,11 +49,6 @@ https://user-images.githubusercontent.com/78309054/175764219-87c42d07-049b-440b-
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RomeZhur.RomeZhur)
 </div>
-<<<<<<< HEAD
-=======
 
-
-
->>>>>>> b2ac32904af610e155e885a9624c6c259d204fa7
 
 
