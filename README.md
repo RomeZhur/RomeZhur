@@ -1,6 +1,12 @@
 <div align="center">
 
+<<<<<<< HEAD
 https://user-images.githubusercontent.com/78309054/175772849-11fece26-aa41-4584-aacf-542799169adf.mov
+=======
+
+https://user-images.githubusercontent.com/78309054/175772849-11fece26-aa41-4584-aacf-542799169adf.mov
+
+>>>>>>> 7fce7a469f7dfa4623d92c7b199966a8f3025da5
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Grechen+Fuemen&size=50&color=05D9E8&duration=7000&center=true&vCenter=true&multiline=true&width=900&height=150&lines=HI,+I'm+Roman+Zhur;Welcome+To+My+GitHub+Profile)](https://git.io/typing-svg)
 
