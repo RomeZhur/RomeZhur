@@ -4,7 +4,7 @@ https://user-images.githubusercontent.com/78309054/175772849-11fece26-aa41-4584-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Grechen+Fuemen&size=50&color=05D9E8&duration=7000&center=true&vCenter=true&multiline=true&width=900&height=150&lines=HI,+I'm+Roman+Zhur;Welcome+To+My+GitHub+Profile)](https://git.io/typing-svg)
 
-<img width="750" height="300" src="assets/img/retrowave.gif"/>
+<img width="750" height="350" src="assets/img/retrowave.gif"/>
 
 <h2>Languages and Tools:</h2>
 
