@@ -6,11 +6,14 @@ https://user-images.githubusercontent.com/78309054/175772849-11fece26-aa41-4584-
 
 <img width="750" height="350" src="assets/img/retrowave.gif"/>
 
-<h3>Love codding 👨‍💻 
 
-I do frontend and a bit of everything...
+<h3>💥 I do frontend and a bit of everything... 💥
 
-All About living life at its best.</h3>
+👨‍💻 Love codding 👨‍💻 
+
+🙈 I love learning something new 🙈
+
+🥳 All About living life at its best.🥳 </h3>
 
 <h2>Languages and Tools:</h2>
 
@@ -34,7 +37,7 @@ All About living life at its best.</h3>
  
 <img hight="300" width="500" align="right" src="assets/img/awesome.jpg" alt="awesome">
 
-# If you want to reach out to me about anything, be it some doubt or just to hangout and talk, ping me 😉
+# If you want to reach out to me about anything, be it some doubt or just to hangout and talk, ping me 🤙
 
 <a href="mailto:roman.edyardovich@gmail.com">
  <img hight="70" width="70" src="assets/icons/Gmail.gif" alt="Gmail"/>
