@@ -6,6 +6,12 @@ https://user-images.githubusercontent.com/78309054/175772849-11fece26-aa41-4584-
 
 <img width="750" height="350" src="assets/img/retrowave.gif"/>
 
+Love codding U+1F468
+
+I do frontend and a bit of everything...
+
+All About living life at its best.
+
 <h2>Languages and Tools:</h2>
 
 <p align="center">
