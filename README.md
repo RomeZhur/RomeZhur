@@ -8,11 +8,8 @@ https://user-images.githubusercontent.com/78309054/175772849-11fece26-aa41-4584-
 
 
 <h3>💥 I do frontend and a bit of everything... 💥
-
 👨‍💻 Love codding 👨‍💻 
-
 🙈 I love learning something new 🙈
-
 🥳 All About living life at its best.🥳 </h3>
 
 <h2>Languages and Tools:</h2>
