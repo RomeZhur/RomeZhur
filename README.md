@@ -41,6 +41,10 @@ https://user-images.githubusercontent.com/78309054/175772849-11fece26-aa41-4584-
 <a href="https://www.instagram.com/roman.edyardovich/">
   <img hight="100" width="100" src="assets/icons/Instagram.gif" alt="Instagram"/>
 </a>
+
+<a href="https://twitter.com/Roman_Zhur">
+  <img hight="100" width="100" src="assets/icons/Twitter.gif" alt="Twitter"/>
+</a>
  </p>
 </br>
 </br>
