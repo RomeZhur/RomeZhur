@@ -52,6 +52,7 @@ https://user-images.githubusercontent.com/78309054/175772849-11fece26-aa41-4584-
 </br>
 </br>
 
+<a href="https://www.buymeacoffee.com/romanedyarP"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="RomanZhur"/></a>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RomeZhur.RomeZhur)
 </div>
