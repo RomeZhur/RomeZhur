@@ -31,19 +31,19 @@ https://user-images.githubusercontent.com/78309054/175772849-11fece26-aa41-4584-
 # If you want to reach out to me about anything, be it some doubt or just to hangout and talk, ping me 😉
 
 <a href="mailto:roman.edyardovich@gmail.com">
- <img hight="100" width="100" src="assets/icons/Gmail.gif" alt="Gmail"/>
+ <img hight="80" width="80" src="assets/icons/Gmail.gif" alt="Gmail"/>
 </a>
 
 <a href="https://www.linkedin.com/in/romanzhur/">
-  <img hight="100" width="100" src="assets/icons/LinkedIn.gif" alt="Linkedin"/>
+  <img hight="80" width="80" src="assets/icons/LinkedIn.gif" alt="Linkedin"/>
 </a>
 
 <a href="https://www.instagram.com/roman.edyardovich/">
-  <img hight="100" width="100" src="assets/icons/Instagram.gif" alt="Instagram"/>
+  <img hight="80" width="80" src="assets/icons/Instagram.gif" alt="Instagram"/>
 </a>
 
 <a href="https://twitter.com/Roman_Zhur">
-  <img hight="100" width="100" src="assets/icons/Twitter.gif" alt="Twitter"/>
+  <img hight="80" width="80" src="assets/icons/Twitter.gif" alt="Twitter"/>
 </a>
  </p>
 </br>
